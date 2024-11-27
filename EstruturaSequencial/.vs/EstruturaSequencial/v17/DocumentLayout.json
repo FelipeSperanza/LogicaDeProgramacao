@@ -1,106 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\",
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5415AAC-C09E-4B92-8213-0D2B3A659E53}|URI1021\\URI1021.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5415AAC-C09E-4B92-8213-0D2B3A659E53}|URI1021\\URI1021.csproj|solutionrelative:uri1021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2342106-5721-4331-9697-F657CB59E386}|URI1061\\URI1061.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2342106-5721-4331-9697-F657CB59E386}|URI1061\\URI1061.csproj|solutionrelative:uri1061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5FD1F71-C2C3-44F2-97F5-4AA5E55D87ED}|URI1019\\URI1019.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5FD1F71-C2C3-44F2-97F5-4AA5E55D87ED}|URI1019\\URI1019.csproj|solutionrelative:uri1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33681723-F6A4-4850-BA68-D3E9E398F2B4}|URI1020\\URI1020.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33681723-F6A4-4850-BA68-D3E9E398F2B4}|URI1020\\URI1020.csproj|solutionrelative:uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9150B166-4758-4D96-895B-C9F5AEE6E74C}|URI1018\\URI1018.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9150B166-4758-4D96-895B-C9F5AEE6E74C}|URI1018\\URI1018.csproj|solutionrelative:uri1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE672D14-0F0F-4825-B2E0-2A1DC421DC1A}|URI1015\\URI1015.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE672D14-0F0F-4825-B2E0-2A1DC421DC1A}|URI1015\\URI1015.csproj|solutionrelative:uri1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D70CD30-7478-4E63-A86A-ED0D0B73DCF8}|URI1013\\URI1013.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D70CD30-7478-4E63-A86A-ED0D0B73DCF8}|URI1013\\URI1013.csproj|solutionrelative:uri1013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FFE888A7-DCFD-44F4-82A8-B082EC6877A0}|URI1012\\URI1012.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FFE888A7-DCFD-44F4-82A8-B082EC6877A0}|URI1012\\URI1012.csproj|solutionrelative:uri1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA83E103-4051-40F9-8D27-817D62E18CBB}|URI1011\\URI1011.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA83E103-4051-40F9-8D27-817D62E18CBB}|URI1011\\URI1011.csproj|solutionrelative:uri1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19770EAE-D15F-4C87-B377-11FEEEF3855F}|URI1009\\URI1009.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19770EAE-D15F-4C87-B377-11FEEEF3855F}|URI1009\\URI1009.csproj|solutionrelative:uri1009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9891AC19-858D-4351-8C8A-6EF92D41634D}|Exercicio3\\Exercicio3.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9891AC19-858D-4351-8C8A-6EF92D41634D}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DB45A1F-4214-44B4-8F26-C0D21E9F0D75}|Exercicio2\\Exercicio2.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DB45A1F-4214-44B4-8F26-C0D21E9F0D75}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C042826A-5D43-4B8C-9027-5BC68508D59C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C042826A-5D43-4B8C-9027-5BC68508D59C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{211CC573-10CF-4004-A004-79C2E6E932A7}|URI1017\\URI1017.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{211CC573-10CF-4004-A004-79C2E6E932A7}|URI1017\\URI1017.csproj|solutionrelative:uri1017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{579A504B-296B-4810-A30C-3958ABA46EB5}|URI1016\\URI1016.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{579A504B-296B-4810-A30C-3958ABA46EB5}|URI1016\\URI1016.csproj|solutionrelative:uri1016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35A035A-0427-4538-8C0F-967142860030}|URI1014\\URI1014.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A35A035A-0427-4538-8C0F-967142860030}|URI1014\\URI1014.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35A035A-0427-4538-8C0F-967142860030}|URI1014\\URI1014.csproj|solutionrelative:uri1014\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB35F83F-6E69-4B61-9C2F-D4DFE3B57693}|URI1010\\URI1010.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5415AAC-C09E-4B92-8213-0D2B3A659E53}|URI1021\\URI1021.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5415AAC-C09E-4B92-8213-0D2B3A659E53}|URI1021\\URI1021.csproj|solutionrelative:uri1021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2342106-5721-4331-9697-F657CB59E386}|URI1061\\URI1061.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2342106-5721-4331-9697-F657CB59E386}|URI1061\\URI1061.csproj|solutionrelative:uri1061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5FD1F71-C2C3-44F2-97F5-4AA5E55D87ED}|URI1019\\URI1019.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5FD1F71-C2C3-44F2-97F5-4AA5E55D87ED}|URI1019\\URI1019.csproj|solutionrelative:uri1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33681723-F6A4-4850-BA68-D3E9E398F2B4}|URI1020\\URI1020.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33681723-F6A4-4850-BA68-D3E9E398F2B4}|URI1020\\URI1020.csproj|solutionrelative:uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9150B166-4758-4D96-895B-C9F5AEE6E74C}|URI1018\\URI1018.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9150B166-4758-4D96-895B-C9F5AEE6E74C}|URI1018\\URI1018.csproj|solutionrelative:uri1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE672D14-0F0F-4825-B2E0-2A1DC421DC1A}|URI1015\\URI1015.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE672D14-0F0F-4825-B2E0-2A1DC421DC1A}|URI1015\\URI1015.csproj|solutionrelative:uri1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D70CD30-7478-4E63-A86A-ED0D0B73DCF8}|URI1013\\URI1013.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D70CD30-7478-4E63-A86A-ED0D0B73DCF8}|URI1013\\URI1013.csproj|solutionrelative:uri1013\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE888A7-DCFD-44F4-82A8-B082EC6877A0}|URI1012\\URI1012.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE888A7-DCFD-44F4-82A8-B082EC6877A0}|URI1012\\URI1012.csproj|solutionrelative:uri1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA83E103-4051-40F9-8D27-817D62E18CBB}|URI1011\\URI1011.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA83E103-4051-40F9-8D27-817D62E18CBB}|URI1011\\URI1011.csproj|solutionrelative:uri1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19770EAE-D15F-4C87-B377-11FEEEF3855F}|URI1009\\URI1009.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19770EAE-D15F-4C87-B377-11FEEEF3855F}|URI1009\\URI1009.csproj|solutionrelative:uri1009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9891AC19-858D-4351-8C8A-6EF92D41634D}|Exercicio3\\Exercicio3.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9891AC19-858D-4351-8C8A-6EF92D41634D}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DB45A1F-4214-44B4-8F26-C0D21E9F0D75}|Exercicio2\\Exercicio2.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DB45A1F-4214-44B4-8F26-C0D21E9F0D75}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211CC573-10CF-4004-A004-79C2E6E932A7}|URI1017\\URI1017.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211CC573-10CF-4004-A004-79C2E6E932A7}|URI1017\\URI1017.csproj|solutionrelative:uri1017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579A504B-296B-4810-A30C-3958ABA46EB5}|URI1016\\URI1016.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579A504B-296B-4810-A30C-3958ABA46EB5}|URI1016\\URI1016.csproj|solutionrelative:uri1016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB35F83F-6E69-4B61-9C2F-D4DFE3B57693}|URI1010\\URI1010.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB35F83F-6E69-4B61-9C2F-D4DFE3B57693}|URI1010\\URI1010.csproj|solutionrelative:uri1010\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656EF553-827A-4BCC-AF51-B21A15213288}|URI1008\\URI1008.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{656EF553-827A-4BCC-AF51-B21A15213288}|URI1008\\URI1008.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{656EF553-827A-4BCC-AF51-B21A15213288}|URI1008\\URI1008.csproj|solutionrelative:uri1008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D818E0E2-D45E-49A7-926F-FBFD27921E1C}|URI1007\\URI1007.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D818E0E2-D45E-49A7-926F-FBFD27921E1C}|URI1007\\URI1007.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D818E0E2-D45E-49A7-926F-FBFD27921E1C}|URI1007\\URI1007.csproj|solutionrelative:uri1007\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C2DE845-3161-4320-81B2-7DCF8DF4434A}|URI1006\\URI1006.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C2DE845-3161-4320-81B2-7DCF8DF4434A}|URI1006\\URI1006.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C2DE845-3161-4320-81B2-7DCF8DF4434A}|URI1006\\URI1006.csproj|solutionrelative:uri1006\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F033636C-65F4-4CDE-859C-F6ADDFCBAB92}|URI1005\\URI1005.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F033636C-65F4-4CDE-859C-F6ADDFCBAB92}|URI1005\\URI1005.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F033636C-65F4-4CDE-859C-F6ADDFCBAB92}|URI1005\\URI1005.csproj|solutionrelative:uri1005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{704F54DB-3D07-4A4E-B716-B0C4EEB66FFC}|URI1004\\URI1004.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{704F54DB-3D07-4A4E-B716-B0C4EEB66FFC}|URI1004\\URI1004.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{704F54DB-3D07-4A4E-B716-B0C4EEB66FFC}|URI1004\\URI1004.csproj|solutionrelative:uri1004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29D4DCB8-AECC-4E87-92A6-CB8679A4DE71}|URI1003\\URI1003.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29D4DCB8-AECC-4E87-92A6-CB8679A4DE71}|URI1003\\URI1003.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29D4DCB8-AECC-4E87-92A6-CB8679A4DE71}|URI1003\\URI1003.csproj|solutionrelative:uri1003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26B40CCF-8001-4102-8D9F-13FC3E16F469}|URI1002\\URI1002.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26B40CCF-8001-4102-8D9F-13FC3E16F469}|URI1002\\URI1002.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26B40CCF-8001-4102-8D9F-13FC3E16F469}|URI1002\\URI1002.csproj|solutionrelative:uri1002\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC9FA9FD-C1EF-4A8B-A637-EDD4AC5A6A67}|URI1001\\URI1001.csproj|c:\\users\\felipe\\desktop\\logica de programa\u00E7\u00E3o\\estruturasequencial\\uri1001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC9FA9FD-C1EF-4A8B-A637-EDD4AC5A6A67}|URI1001\\URI1001.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\uri1001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC9FA9FD-C1EF-4A8B-A637-EDD4AC5A6A67}|URI1001\\URI1001.csproj|solutionrelative:uri1001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C042826A-5D43-4B8C-9027-5BC68508D59C}|ConsoleApp1\\Exercicio1.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturasequencial\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C042826A-5D43-4B8C-9027-5BC68508D59C}|ConsoleApp1\\Exercicio1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,332 +110,308 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1061\\Program.cs",
-              "RelativeDocumentMoniker": "URI1061\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1061\\Program.cs",
-              "RelativeToolTip": "URI1061\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAmwCkAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:22:10.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1021\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1021\\Program.cs",
               "RelativeDocumentMoniker": "URI1021\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1021\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1021\\Program.cs",
               "RelativeToolTip": "URI1021\\Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAmwFIAAAAyAAAAAAAAAA==",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:21:59.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1020\\Program.cs",
-              "RelativeDocumentMoniker": "URI1020\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1020\\Program.cs",
-              "RelativeToolTip": "URI1020\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:21:52.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:21:59.618Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1018\\Program.cs",
-              "RelativeDocumentMoniker": "URI1018\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1018\\Program.cs",
-              "RelativeToolTip": "URI1018\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAmwCUAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1020\\Program.cs",
+              "RelativeDocumentMoniker": "URI1020\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1020\\Program.cs",
+              "RelativeToolTip": "URI1020\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:21:45.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1019\\Program.cs",
-              "RelativeDocumentMoniker": "URI1019\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1019\\Program.cs",
-              "RelativeToolTip": "URI1019\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:21:18.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:21:52.515Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1015\\Program.cs",
-              "RelativeDocumentMoniker": "URI1015\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1015\\Program.cs",
-              "RelativeToolTip": "URI1015\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1018\\Program.cs",
+              "RelativeDocumentMoniker": "URI1018\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1018\\Program.cs",
+              "RelativeToolTip": "URI1018\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:19:07.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:21:45.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1019\\Program.cs",
+              "RelativeDocumentMoniker": "URI1019\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1019\\Program.cs",
+              "RelativeToolTip": "URI1019\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:21:18.554Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1013\\Program.cs",
-              "RelativeDocumentMoniker": "URI1013\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1013\\Program.cs",
-              "RelativeToolTip": "URI1013\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1015\\Program.cs",
+              "RelativeDocumentMoniker": "URI1015\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1015\\Program.cs",
+              "RelativeToolTip": "URI1015\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:18:57.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:19:07.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1012\\Program.cs",
-              "RelativeDocumentMoniker": "URI1012\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1012\\Program.cs",
-              "RelativeToolTip": "URI1012\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1013\\Program.cs",
+              "RelativeDocumentMoniker": "URI1013\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1013\\Program.cs",
+              "RelativeToolTip": "URI1013\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:18:47.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:18:57.903Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1011\\Program.cs",
-              "RelativeDocumentMoniker": "URI1011\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1011\\Program.cs",
-              "RelativeToolTip": "URI1011\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1012\\Program.cs",
+              "RelativeDocumentMoniker": "URI1012\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1012\\Program.cs",
+              "RelativeToolTip": "URI1012\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:18:38.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:18:47.627Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1009\\Program.cs",
-              "RelativeDocumentMoniker": "URI1009\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1009\\Program.cs",
-              "RelativeToolTip": "URI1009\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1011\\Program.cs",
+              "RelativeDocumentMoniker": "URI1011\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1011\\Program.cs",
+              "RelativeToolTip": "URI1011\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:18:30.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:18:38.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\Exercicio3\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\Exercicio3\\Program.cs",
-              "RelativeToolTip": "Exercicio3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1009\\Program.cs",
+              "RelativeDocumentMoniker": "URI1009\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1009\\Program.cs",
+              "RelativeToolTip": "URI1009\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:16:55.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:18:30.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\Exercicio2\\Program.cs",
-              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\Exercicio2\\Program.cs",
-              "RelativeToolTip": "Exercicio2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:15:35.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1007\\Program.cs",
-              "RelativeDocumentMoniker": "URI1007\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1007\\Program.cs",
-              "RelativeToolTip": "URI1007\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:02:02.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1008\\Program.cs",
-              "RelativeDocumentMoniker": "URI1008\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1008\\Program.cs",
-              "RelativeToolTip": "URI1008\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:02:09.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1010\\Program.cs",
-              "RelativeDocumentMoniker": "URI1010\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1010\\Program.cs",
-              "RelativeToolTip": "URI1010\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:02:44.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1014\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1014\\Program.cs",
               "RelativeDocumentMoniker": "URI1014\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1014\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1014\\Program.cs",
               "RelativeToolTip": "URI1014\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T23:02:51.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1016\\Program.cs",
-              "RelativeDocumentMoniker": "URI1016\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1016\\Program.cs",
-              "RelativeToolTip": "URI1016\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1061\\Program.cs",
+              "RelativeDocumentMoniker": "URI1061\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1061\\Program.cs",
+              "RelativeToolTip": "URI1061\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwCkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:03:03.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:22:10.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1017\\Program.cs",
-              "RelativeDocumentMoniker": "URI1017\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1017\\Program.cs",
-              "RelativeToolTip": "URI1017\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:09:46.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:16:55.601Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T21:56:28.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:15:35.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1006\\Program.cs",
-              "RelativeDocumentMoniker": "URI1006\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1006\\Program.cs",
-              "RelativeToolTip": "URI1006\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1007\\Program.cs",
+              "RelativeDocumentMoniker": "URI1007\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1007\\Program.cs",
+              "RelativeToolTip": "URI1007\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:01:54.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:02:02.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1005\\Program.cs",
-              "RelativeDocumentMoniker": "URI1005\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1005\\Program.cs",
-              "RelativeToolTip": "URI1005\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1008\\Program.cs",
+              "RelativeDocumentMoniker": "URI1008\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1008\\Program.cs",
+              "RelativeToolTip": "URI1008\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:01:48.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:02:09.265Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1004\\Program.cs",
-              "RelativeDocumentMoniker": "URI1004\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1004\\Program.cs",
-              "RelativeToolTip": "URI1004\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1010\\Program.cs",
+              "RelativeDocumentMoniker": "URI1010\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1010\\Program.cs",
+              "RelativeToolTip": "URI1010\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:01:41.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:02:44.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1003\\Program.cs",
-              "RelativeDocumentMoniker": "URI1003\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1003\\Program.cs",
-              "RelativeToolTip": "URI1003\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1016\\Program.cs",
+              "RelativeDocumentMoniker": "URI1016\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1016\\Program.cs",
+              "RelativeToolTip": "URI1016\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:01:31.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:03:03.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1002\\Program.cs",
-              "RelativeDocumentMoniker": "URI1002\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1002\\Program.cs",
-              "RelativeToolTip": "URI1002\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1017\\Program.cs",
+              "RelativeDocumentMoniker": "URI1017\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1017\\Program.cs",
+              "RelativeToolTip": "URI1017\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:01:22.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:09:46.289Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1001\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:56:28.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1006\\Program.cs",
+              "RelativeDocumentMoniker": "URI1006\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1006\\Program.cs",
+              "RelativeToolTip": "URI1006\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:01:54.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1005\\Program.cs",
+              "RelativeDocumentMoniker": "URI1005\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1005\\Program.cs",
+              "RelativeToolTip": "URI1005\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:01:48.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1004\\Program.cs",
+              "RelativeDocumentMoniker": "URI1004\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1004\\Program.cs",
+              "RelativeToolTip": "URI1004\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:01:41.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1003\\Program.cs",
+              "RelativeDocumentMoniker": "URI1003\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1003\\Program.cs",
+              "RelativeToolTip": "URI1003\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:01:31.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1002\\Program.cs",
+              "RelativeDocumentMoniker": "URI1002\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1002\\Program.cs",
+              "RelativeToolTip": "URI1002\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:01:22.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1001\\Program.cs",
               "RelativeDocumentMoniker": "URI1001\\Program.cs",
-              "ToolTip": "C:\\Users\\Felipe\\Desktop\\Logica de Programa\u00E7\u00E3o\\EstruturaSequencial\\URI1001\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaSequencial\\URI1001\\Program.cs",
               "RelativeToolTip": "URI1001\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:01:13.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T23:01:13.129Z"
             }
           ]
         }

@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\bin\Debug\net8.0\URI1047.exe
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\bin\Debug\net8.0\URI1047.deps.json
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\bin\Debug\net8.0\URI1047.runtimeconfig.json
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\bin\Debug\net8.0\URI1047.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\bin\Debug\net8.0\URI1047.pdb
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\URI1047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\URI1047.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\URI1047.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\URI1047.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\URI1047.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\refint\URI1047.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\URI1047.pdb
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\URI1047.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1047\obj\Debug\net8.0\ref\URI1047.dll
