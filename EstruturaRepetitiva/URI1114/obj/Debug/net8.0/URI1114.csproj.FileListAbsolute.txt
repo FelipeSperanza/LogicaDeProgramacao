@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\bin\Debug\net8.0\URI1114.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\bin\Debug\net8.0\URI1114.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\bin\Debug\net8.0\URI1114.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\bin\Debug\net8.0\URI1114.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\bin\Debug\net8.0\URI1114.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\refint\URI1114.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\URI1114.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\EstruturaRepetitiva\URI1114\obj\Debug\net8.0\ref\URI1114.dll
