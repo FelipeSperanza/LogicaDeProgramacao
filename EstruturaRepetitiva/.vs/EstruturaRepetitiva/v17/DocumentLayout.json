@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F914762B-8981-4EAA-8BFE-1CEFE853DD96}|URI1159\\URI1159.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1159\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F914762B-8981-4EAA-8BFE-1CEFE853DD96}|URI1159\\URI1159.csproj|solutionrelative:uri1159\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AE2EEE-DA46-46DB-8313-527178DCB909}|URI1154\\URI1154.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AE2EEE-DA46-46DB-8313-527178DCB909}|URI1154\\URI1154.csproj|solutionrelative:uri1154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2FAB16-03B8-4137-8B1B-5CDCCE58F1A2}|URI1134\\URI1134.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2FAB16-03B8-4137-8B1B-5CDCCE58F1A2}|URI1134\\URI1134.csproj|solutionrelative:uri1134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829625E3-8E28-43F3-9D1F-D6CAF8A21F4C}|URI1131\\URI1131.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829625E3-8E28-43F3-9D1F-D6CAF8A21F4C}|URI1131\\URI1131.csproj|solutionrelative:uri1131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0F37493-EE62-47E0-A715-081D70F27C9E}|URI1118\\URI1118.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1118\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0F37493-EE62-47E0-A715-081D70F27C9E}|URI1118\\URI1118.csproj|solutionrelative:uri1118\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,22 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{64F504A2-2438-4B46-847A-A2ECB02DCD6F}|URI1114\\URI1114.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64F504A2-2438-4B46-847A-A2ECB02DCD6F}|URI1114\\URI1114.csproj|solutionrelative:uri1114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{829625E3-8E28-43F3-9D1F-D6CAF8A21F4C}|URI1131\\URI1131.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{829625E3-8E28-43F3-9D1F-D6CAF8A21F4C}|URI1131\\URI1131.csproj|solutionrelative:uri1131\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F914762B-8981-4EAA-8BFE-1CEFE853DD96}|URI1159\\URI1159.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1159\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F914762B-8981-4EAA-8BFE-1CEFE853DD96}|URI1159\\URI1159.csproj|solutionrelative:uri1159\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7AE2EEE-DA46-46DB-8313-527178DCB909}|URI1154\\URI1154.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7AE2EEE-DA46-46DB-8313-527178DCB909}|URI1154\\URI1154.csproj|solutionrelative:uri1154\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E2FAB16-03B8-4137-8B1B-5CDCCE58F1A2}|URI1134\\URI1134.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\uri1134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E2FAB16-03B8-4137-8B1B-5CDCCE58F1A2}|URI1134\\URI1134.csproj|solutionrelative:uri1134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39A6C125-FF94-4ADC-87C0-7D9F7E6609AC}|Exercicio2\\Exercicio2.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\estruturarepetitiva\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,89 +50,86 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1159\\Program.cs",
               "RelativeDocumentMoniker": "URI1159\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1159\\Program.cs",
               "RelativeToolTip": "URI1159\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T18:09:56.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1154\\Program.cs",
               "RelativeDocumentMoniker": "URI1154\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1154\\Program.cs",
               "RelativeToolTip": "URI1154\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T18:09:44.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1134\\Program.cs",
               "RelativeDocumentMoniker": "URI1134\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1134\\Program.cs",
               "RelativeToolTip": "URI1134\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T18:09:32.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1131\\Program.cs",
               "RelativeDocumentMoniker": "URI1131\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1131\\Program.cs",
               "RelativeToolTip": "URI1131\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwC4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:09:25.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:09:25.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1118\\Program.cs",
               "RelativeDocumentMoniker": "URI1118\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1118\\Program.cs",
               "RelativeToolTip": "URI1118\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAAB4AAAABAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:09:07.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:09:07.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1117\\Program.cs",
               "RelativeDocumentMoniker": "URI1117\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1117\\Program.cs",
               "RelativeToolTip": "URI1117\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:08:58.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:08:58.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1115\\Program.cs",
               "RelativeDocumentMoniker": "URI1115\\Program.cs",
@@ -140,21 +137,19 @@
               "RelativeToolTip": "URI1115\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAuwBsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:08:49.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:08:49.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1114\\Program.cs",
               "RelativeDocumentMoniker": "URI1114\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\EstruturaRepetitiva\\URI1114\\Program.cs",
               "RelativeToolTip": "URI1114\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T18:08:41.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T18:08:41.865Z"
             },
             {
               "$type": "Document",
@@ -166,8 +161,7 @@
               "RelativeToolTip": "Exercicio2\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:56:15.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:56:15.742Z"
             },
             {
               "$type": "Document",
@@ -179,8 +173,7 @@
               "RelativeToolTip": "Exercicio1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T17:46:35.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T17:46:35.638Z"
             }
           ]
         }
