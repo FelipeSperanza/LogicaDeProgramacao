@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1203D5E7-67A5-4419-85AC-54364D630BC6}|Exercicio2\\Exercicio2.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1203D5E7-67A5-4419-85AC-54364D630BC6}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{183901A2-05FA-49EA-9F66-B4965B2BD1E9}|Exercicio1\\Exercicio1.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{183901A2-05FA-49EA-9F66-B4965B2BD1E9}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T04:25:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:14:40.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
