@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\bin\Debug\net8.0\Vetor9.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\bin\Debug\net8.0\Vetor9.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\bin\Debug\net8.0\Vetor9.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\bin\Debug\net8.0\Vetor9.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\bin\Debug\net8.0\Vetor9.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\refint\Vetor9.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\Vetor9.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Vetor9\obj\Debug\net8.0\ref\Vetor9.dll
