@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CE950D-F72B-4449-81DB-944102090E60}|Matriz7\\Matriz7.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\matriz7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CE950D-F72B-4449-81DB-944102090E60}|Matriz7\\Matriz7.csproj|solutionrelative:matriz7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AD95E5-B838-494B-A2F7-BA0E7D35FC26}|Matriz6\\Matriz6.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\matriz6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AD95E5-B838-494B-A2F7-BA0E7D35FC26}|Matriz6\\Matriz6.csproj|solutionrelative:matriz6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48971328-CB45-430A-8DD4-6F5232EFDE27}|Exercicio2\\Exercicio2.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48971328-CB45-430A-8DD4-6F5232EFDE27}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{070E07EF-3559-419A-B957-AB7CC1F21D2C}|Matriz4\\Matriz4.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\matriz4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{070E07EF-3559-419A-B957-AB7CC1F21D2C}|Matriz4\\Matriz4.csproj|solutionrelative:matriz4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B408E907-41F7-4E43-8D27-3B6D3CBAE412}|Matriz5\\Matriz5.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\matriz5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B408E907-41F7-4E43-8D27-3B6D3CBAE412}|Matriz5\\Matriz5.csproj|solutionrelative:matriz5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4822BCCF-B407-469D-9689-B9D179FE0F16}|Matriz3\\Matriz3.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\matriz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4822BCCF-B407-469D-9689-B9D179FE0F16}|Matriz3\\Matriz3.csproj|solutionrelative:matriz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED2CC8-A4B8-45AC-80AD-BFD12199F6E4}|Matriz2\\Matriz2.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\matriz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED2CC8-A4B8-45AC-80AD-BFD12199F6E4}|Matriz2\\Matriz2.csproj|solutionrelative:matriz2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDD74F4-F692-4CF8-9BCB-260204EA71F7}|Matriz1\\Matriz1.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\matriz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDD74F4-F692-4CF8-9BCB-260204EA71F7}|Matriz1\\Matriz1.csproj|solutionrelative:matriz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010B1158-91EB-411A-8CC2-E690F9819368}|Exercicio3\\Exercicio3.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010B1158-91EB-411A-8CC2-E690F9819368}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBEDE36E-41A6-4475-BE5B-C33AD870E186}|Exercicio1\\Exercicio1.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\matrizes\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBEDE36E-41A6-4475-BE5B-C33AD870E186}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz7\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz7\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz7\\Program.cs",
+              "RelativeToolTip": "Matriz7\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T02:12:58.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz6\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz6\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz6\\Program.cs",
+              "RelativeToolTip": "Matriz6\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwD0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:30:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz5\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz5\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz5\\Program.cs",
+              "RelativeToolTip": "Matriz5\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:23:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz4\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz4\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz4\\Program.cs",
+              "RelativeToolTip": "Matriz4\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:03:19.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz3\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz3\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz3\\Program.cs",
+              "RelativeToolTip": "Matriz3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T00:58:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz2\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz2\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz2\\Program.cs",
+              "RelativeToolTip": "Matriz2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T00:53:52.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz1\\Program.cs",
+              "RelativeDocumentMoniker": "Matriz1\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Matriz1\\Program.cs",
+              "RelativeToolTip": "Matriz1\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T00:47:51.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:11:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAWwBoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T23:33:24.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Matrizes\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T22:46:00.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

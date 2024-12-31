@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\bin\Debug\net8.0\Matriz7.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\bin\Debug\net8.0\Matriz7.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\bin\Debug\net8.0\Matriz7.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\bin\Debug\net8.0\Matriz7.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\bin\Debug\net8.0\Matriz7.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\refint\Matriz7.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\Matriz7.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz7\obj\Debug\net8.0\ref\Matriz7.dll

@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\bin\Debug\net8.0\Matriz4.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\bin\Debug\net8.0\Matriz4.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\bin\Debug\net8.0\Matriz4.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\bin\Debug\net8.0\Matriz4.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\bin\Debug\net8.0\Matriz4.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\refint\Matriz4.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\Matriz4.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Matrizes\Matriz4\obj\Debug\net8.0\ref\Matriz4.dll
