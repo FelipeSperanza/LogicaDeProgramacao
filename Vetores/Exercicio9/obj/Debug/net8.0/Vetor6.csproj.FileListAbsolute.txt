@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\bin\Debug\net8.0\Vetor6.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\bin\Debug\net8.0\Vetor6.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\bin\Debug\net8.0\Vetor6.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\bin\Debug\net8.0\Vetor6.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\bin\Debug\net8.0\Vetor6.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\refint\Vetor6.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\Vetor6.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Vetores\Exercicio9\obj\Debug\net8.0\ref\Vetor6.dll

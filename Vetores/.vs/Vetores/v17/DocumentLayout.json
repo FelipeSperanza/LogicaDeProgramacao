@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF421917-5C36-4BB5-8725-28B379911F6D}|Exercicio9\\Exercicio9.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF421917-5C36-4BB5-8725-28B379911F6D}|Exercicio9\\Exercicio9.csproj|solutionrelative:exercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA0A4CDF-DF5E-423B-BF02-51C759B30847}|Vetor9\\Vetor9.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\vetor9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0A4CDF-DF5E-423B-BF02-51C759B30847}|Vetor9\\Vetor9.csproj|solutionrelative:vetor9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0721515B-7094-4E9A-9E82-22210BF9DB27}|Exercicio8\\Exercicio8.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0721515B-7094-4E9A-9E82-22210BF9DB27}|Exercicio8\\Exercicio8.csproj|solutionrelative:exercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52400D45-56AE-45E0-B5BF-CB05C2C5113D}|Vetor8\\Vetor8.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\vetor8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52400D45-56AE-45E0-B5BF-CB05C2C5113D}|Vetor8\\Vetor8.csproj|solutionrelative:vetor8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964421D0-577E-4467-825B-05A52D427D0A}|Exercicio7\\Exercicio7.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964421D0-577E-4467-825B-05A52D427D0A}|Exercicio7\\Exercicio7.csproj|solutionrelative:exercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BBF71D64-CB09-4A4A-837C-40C480B77BC6}|Vetor7\\Vetor7.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\vetor7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF71D64-CB09-4A4A-837C-40C480B77BC6}|Vetor7\\Vetor7.csproj|solutionrelative:vetor7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BE9ADD7-B34F-47F0-BB23-323DE043B890}|Exercicio6\\Exercicio6.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BE9ADD7-B34F-47F0-BB23-323DE043B890}|Exercicio6\\Exercicio6.csproj|solutionrelative:exercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF421917-5C36-4BB5-8725-28B379911F6D}|Exercicio9\\Vetor6.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF421917-5C36-4BB5-8725-28B379911F6D}|Exercicio9\\Vetor6.csproj|solutionrelative:exercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB3932B1-4076-401C-B3F7-DDA8F4FAB6CA}|Exercicio3\\Exercicio3.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB3932B1-4076-401C-B3F7-DDA8F4FAB6CA}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F60AF5F0-8584-46E8-9C65-471CF49014B9}|Exercicio5\\Exercicio5.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F60AF5F0-8584-46E8-9C65-471CF49014B9}|Exercicio5\\Exercicio5.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{932BC396-42EE-42FA-B56C-F97654A94CC1}|Exercicio4\\Exercicio4.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{932BC396-42EE-42FA-B56C-F97654A94CC1}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1203D5E7-67A5-4419-85AC-54364D630BC6}|Exercicio2\\Exercicio2.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +29,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{183901A2-05FA-49EA-9F66-B4965B2BD1E9}|Exercicio1\\Exercicio1.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{183901A2-05FA-49EA-9F66-B4965B2BD1E9}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0721515B-7094-4E9A-9E82-22210BF9DB27}|Exercicio8\\Vetor5.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0721515B-7094-4E9A-9E82-22210BF9DB27}|Exercicio8\\Vetor5.csproj|solutionrelative:exercicio8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964421D0-577E-4467-825B-05A52D427D0A}|Exercicio7\\Vetor4.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964421D0-577E-4467-825B-05A52D427D0A}|Exercicio7\\Vetor4.csproj|solutionrelative:exercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE9ADD7-B34F-47F0-BB23-323DE043B890}|Exercicio6\\Vetor3.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE9ADD7-B34F-47F0-BB23-323DE043B890}|Exercicio6\\Vetor3.csproj|solutionrelative:exercicio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F60AF5F0-8584-46E8-9C65-471CF49014B9}|Exercicio5\\Vetor2.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60AF5F0-8584-46E8-9C65-471CF49014B9}|Exercicio5\\Vetor2.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{932BC396-42EE-42FA-B56C-F97654A94CC1}|Exercicio4\\Vetor1.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\vetores\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932BC396-42EE-42FA-B56C-F97654A94CC1}|Exercicio4\\Vetor1.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,18 +64,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Vetor9\\Program.cs",
+              "RelativeDocumentMoniker": "Vetor9\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Vetor9\\Program.cs",
+              "RelativeToolTip": "Vetor9\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:25:55.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Vetor8\\Program.cs",
+              "RelativeDocumentMoniker": "Vetor8\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Vetor8\\Program.cs",
+              "RelativeToolTip": "Vetor8\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:01:30.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Vetor7\\Program.cs",
+              "RelativeDocumentMoniker": "Vetor7\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Vetor7\\Program.cs",
+              "RelativeToolTip": "Vetor7\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:56:35.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio9\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio9\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio9\\Program.cs",
               "RelativeToolTip": "Exercicio9\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBcAAAAZAAAAAAAAAA==",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T03:51:52.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio8\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio8\\Program.cs",
@@ -71,12 +122,11 @@
               "RelativeToolTip": "Exercicio8\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T03:43:23.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T03:43:23.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio7\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio7\\Program.cs",
@@ -84,12 +134,11 @@
               "RelativeToolTip": "Exercicio7\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAIwCAAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T03:27:54.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T03:27:54.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio6\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio6\\Program.cs",
@@ -97,12 +146,11 @@
               "RelativeToolTip": "Exercicio6\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T03:21:29.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T03:21:29.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio5\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio5\\Program.cs",
@@ -110,12 +158,11 @@
               "RelativeToolTip": "Exercicio5\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T03:15:09.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T03:15:09.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio4\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
@@ -123,8 +170,7 @@
               "RelativeToolTip": "Exercicio4\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwA4AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T03:05:01.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T03:05:01.363Z"
             },
             {
               "$type": "Document",
@@ -136,12 +182,11 @@
               "RelativeToolTip": "Exercicio3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T02:11:21.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T02:11:21.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio2\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
@@ -149,12 +194,11 @@
               "RelativeToolTip": "Exercicio2\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T04:25:04.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T04:25:04.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Vetores\\Exercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
@@ -162,8 +206,7 @@
               "RelativeToolTip": "Exercicio1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T05:14:40.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T05:14:40.488Z"
             }
           ]
         }
