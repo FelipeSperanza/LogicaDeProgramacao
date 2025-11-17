@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\bin\Debug\net9.0\Exercicio1001.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\bin\Debug\net9.0\Exercicio1001.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\bin\Debug\net9.0\Exercicio1001.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\bin\Debug\net9.0\Exercicio1001.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\bin\Debug\net9.0\Exercicio1001.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\Exercicio1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\Exercicio1001.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\Exercicio1001.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\Exercicio1001.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\Exercicio1001.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\refint\Exercicio1001.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\Exercicio1001.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\Exercicio1001.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1001\obj\Debug\net9.0\ref\Exercicio1001.dll

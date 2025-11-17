@@ -1,0 +1,14 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\bin\Debug\net9.0\Exercicio1003.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\bin\Debug\net9.0\Exercicio1003.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\bin\Debug\net9.0\Exercicio1003.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\bin\Debug\net9.0\Exercicio1003.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\bin\Debug\net9.0\Exercicio1003.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\Exercicio1003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\Exercicio1003.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\Exercicio1003.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\Exercicio1003.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\Exercicio1003.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\refint\Exercicio1003.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\Exercicio1003.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\Exercicio1003.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1003\obj\Debug\net9.0\ref\Exercicio1003.dll
