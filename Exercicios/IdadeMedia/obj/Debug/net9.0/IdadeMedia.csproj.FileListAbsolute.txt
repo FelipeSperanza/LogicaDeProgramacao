@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\bin\Debug\net9.0\IdadeMedia.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\bin\Debug\net9.0\IdadeMedia.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\bin\Debug\net9.0\IdadeMedia.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\bin\Debug\net9.0\IdadeMedia.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\bin\Debug\net9.0\IdadeMedia.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\refint\IdadeMedia.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\IdadeMedia.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\IdadeMedia\obj\Debug\net9.0\ref\IdadeMedia.dll

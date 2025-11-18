@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int distancia = int.Parse(Console.ReadLine());
+
+int tempo = distancia * 2;
+
+Console.WriteLine(tempo + " minutos");
