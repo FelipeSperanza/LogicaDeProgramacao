@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\bin\Debug\net9.0\URI1016.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\bin\Debug\net9.0\URI1016.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\bin\Debug\net9.0\URI1016.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\bin\Debug\net9.0\URI1016.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\bin\Debug\net9.0\URI1016.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\refint\URI1016.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\URI1016.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\Exercicio1016\obj\Debug\net9.0\ref\URI1016.dll

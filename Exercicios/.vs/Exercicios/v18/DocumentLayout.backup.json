@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2CF2149-38B2-4418-AAB8-A4FA0A5D20DB}|URI1061\\URI1061.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\uri1061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2CF2149-38B2-4418-AAB8-A4FA0A5D20DB}|URI1061\\URI1061.csproj|solutionrelative:uri1061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576B0247-68C8-4E63-BEB1-82876F4A3DE7}|URI1021\\URI1021.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\uri1021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576B0247-68C8-4E63-BEB1-82876F4A3DE7}|URI1021\\URI1021.csproj|solutionrelative:uri1021\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9941B6BD-CFFF-41CA-B69C-FF121B68B190}|URI1020\\URI1020.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9941B6BD-CFFF-41CA-B69C-FF121B68B190}|URI1020\\URI1020.csproj|solutionrelative:uri1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E65FDDF-0AB6-4D60-8DBD-C4B8EE67C6F6}|URI1018\\URI1018.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\uri1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E65FDDF-0AB6-4D60-8DBD-C4B8EE67C6F6}|URI1018\\URI1018.csproj|solutionrelative:uri1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18071824-81C5-4096-AFA9-E4ED2C6707D9}|Exercicio 1011\\URI1011.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\exercicio 1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18071824-81C5-4096-AFA9-E4ED2C6707D9}|Exercicio 1011\\URI1011.csproj|solutionrelative:exercicio 1011\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8DE904-A87F-476D-B73D-C9C706374705}|Exercicio1019\\URI1019.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\exercicio1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8DE904-A87F-476D-B73D-C9C706374705}|Exercicio1019\\URI1019.csproj|solutionrelative:exercicio1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA49F88-4E86-4080-9F7F-CE1879274868}|Exercicio1015\\URI1015.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\exercicio1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA49F88-4E86-4080-9F7F-CE1879274868}|Exercicio1015\\URI1015.csproj|solutionrelative:exercicio1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2523863C-5AE0-453F-8C0C-383A3E50B6C3}|Exercicio1012\\URI1012.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\exercicio1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2523863C-5AE0-453F-8C0C-383A3E50B6C3}|Exercicio1012\\URI1012.csproj|solutionrelative:exercicio1012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E40594-3252-4223-B18B-9E82291C829C}|Exercicio1009\\URI1009.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicios\\exercicio1009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E40594-3252-4223-B18B-9E82291C829C}|Exercicio1009\\URI1009.csproj|solutionrelative:exercicio1009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1061\\Program.cs",
+              "RelativeDocumentMoniker": "URI1061\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1061\\Program.cs",
+              "RelativeToolTip": "URI1061\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T01:26:07.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1021\\Program.cs",
+              "RelativeDocumentMoniker": "URI1021\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1021\\Program.cs",
+              "RelativeToolTip": "URI1021\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T05:03:51.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1020\\Program.cs",
+              "RelativeDocumentMoniker": "URI1020\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1020\\Program.cs",
+              "RelativeToolTip": "URI1020\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:58:36.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1018\\Program.cs",
+              "RelativeDocumentMoniker": "URI1018\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\URI1018\\Program.cs",
+              "RelativeToolTip": "URI1018\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:45:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio 1011\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 1011\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio 1011\\Program.cs",
+              "RelativeToolTip": "Exercicio 1011\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:42:40.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1019\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1019\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1019\\Program.cs",
+              "RelativeToolTip": "Exercicio1019\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:29:26.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1015\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1015\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1015\\Program.cs",
+              "RelativeToolTip": "Exercicio1015\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:28:37.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1012\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1012\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1012\\Program.cs",
+              "RelativeToolTip": "Exercicio1012\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:28:11.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1009\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1009\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\Exercicios\\Exercicio1009\\Program.cs",
+              "RelativeToolTip": "Exercicio1009\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T04:21:53.969Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,3 +12,4 @@ C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\ExercicioArea\obj\Debug\n
 C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\ExercicioArea\obj\Debug\net9.0\ExercicioArea.pdb
 C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\ExercicioArea\obj\Debug\net9.0\ExercicioArea.genruntimeconfig.cache
 C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\ExercicioArea\obj\Debug\net9.0\ref\ExercicioArea.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\Exercicios\ExercicioArea\obj\Debug\net9.0\ExercicioArea.sourcelink.json

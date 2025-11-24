@@ -7,3 +7,7 @@ double totalVendas = double.Parse(Console.ReadLine(), CultureInfo.InvariantCultu
 double salarioTotal = salario + (totalVendas * 0.15);
 
 Console.WriteLine("TOTAL = R$ " + salarioTotal.ToString("F2", CultureInfo.InvariantCulture));
+
+
+
+
