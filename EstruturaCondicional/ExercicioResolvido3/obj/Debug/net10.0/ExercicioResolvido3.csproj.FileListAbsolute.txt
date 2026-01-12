@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\bin\Debug\net10.0\ExercicioResolvido3.exe
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\bin\Debug\net10.0\ExercicioResolvido3.deps.json
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\bin\Debug\net10.0\ExercicioResolvido3.runtimeconfig.json
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\bin\Debug\net10.0\ExercicioResolvido3.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\bin\Debug\net10.0\ExercicioResolvido3.pdb
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ExercicioResolvido3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ExercicioResolvido3.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ExercicioResolvido3.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ExercicioResolvido3.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ExercicioResolvido3.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\refint\ExercicioResolvido3.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ExercicioResolvido3.pdb
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ExercicioResolvido3.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\ExercicioResolvido3\obj\Debug\net10.0\ref\ExercicioResolvido3.dll

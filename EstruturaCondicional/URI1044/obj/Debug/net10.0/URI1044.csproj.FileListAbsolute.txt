@@ -1,0 +1,14 @@
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\bin\Debug\net10.0\URI1044.exe
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\bin\Debug\net10.0\URI1044.deps.json
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\bin\Debug\net10.0\URI1044.runtimeconfig.json
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\bin\Debug\net10.0\URI1044.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\bin\Debug\net10.0\URI1044.pdb
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\URI1044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\URI1044.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\URI1044.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\URI1044.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\URI1044.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\refint\URI1044.dll
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\URI1044.pdb
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\URI1044.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\EstruturaCondicional\URI1044\obj\Debug\net10.0\ref\URI1044.dll

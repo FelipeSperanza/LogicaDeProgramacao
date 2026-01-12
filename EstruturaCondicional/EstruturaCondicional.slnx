@@ -1,0 +1,27 @@
+<Solution>
+  <Project Path="ExercicioResolvido1/ExercicioResolvido1.csproj" />
+  <Project Path="ExercicioResolvido2/ExercicioResolvido2.csproj" Id="5c5d0752-f20a-41c0-ae25-93fac25f8d0a" />
+  <Project Path="ExercicioResolvido3/ExercicioResolvido3.csproj" Id="f9f0f263-88f6-4cd5-ab20-49427a56e1a2" />
+  <Project Path="ExercicioSwitch/ExercicioSwitch.csproj" Id="27dc9ea4-ba1a-459d-b3bd-75c0361654e7" />
+  <Project Path="URI1035/URI1035.csproj" Id="b9ae2d46-1f20-47ce-acba-3435ecd8e1a9" />
+  <Project Path="URI1037/URI1037.csproj" Id="1db90700-a90d-4c5e-9409-b23a00a3eaa5" />
+  <Project Path="URI1038/URI1038.csproj" Id="c62da71b-1dda-4ba3-b24f-cc8c3e5a7233" />
+  <Project Path="URI1040/URI1040.csproj" Id="0e0cdc57-2e63-401f-a65c-bce05ac7481e" />
+  <Project Path="URI1041/URI1041.csproj" Id="6aa81ae1-f373-4cfe-9e48-7e3e3dbc96dc" />
+  <Project Path="URI1042/URI1042.csproj" Id="882af577-6a9f-470b-a2b5-43e17e47d0e7" />
+  <Project Path="URI1043/URI1043.csproj" Id="623984fb-4021-4b54-bce6-7e44e27b4c60" />
+  <Project Path="URI1044/URI1044.csproj" Id="64145096-ee4d-4fda-b322-f2c21354912a" />
+  <Project Path="URI1045/URI1045.csproj" Id="46e3cb70-409f-4616-86f3-29f3839f4615" />
+  <Project Path="URI1046/URI1046.csproj" Id="b87fc159-3a4d-4ae8-86ae-d36c3d65265e" />
+  <Project Path="URI1047/URI1047.csproj" Id="b916b519-4ab0-4267-bc46-e05e9f598a12" />
+  <Project Path="URI1048/URI1048.csproj" Id="95152e83-eabc-4eb3-8c32-737fc259269f" />
+  <Project Path="URI1049/URI1049.csproj" Id="e98917a1-2cb3-4007-85d9-32ae5555409c" />
+  <Project Path="URI1050/URI1050.csproj" Id="40247ee7-9490-45a0-a854-539c6c66ef87" />
+  <Project Path="URI1051/URI1051.csproj" Id="1b189e0d-45c9-4b7f-be2e-94e3d2c938f7" />
+  <Project Path="URI1052/URI1052.csproj" Id="d54c5888-f509-4ba8-989e-25489a7734b1" />
+  <Project Path="URI1060/URI1060.csproj" Id="e511cbe3-2144-47a0-8668-a9110d0afe08" />
+  <Project Path="URI1064/URI1064.csproj" Id="52ad9ebc-e823-4ba3-a712-22a635e47a5b" />
+  <Project Path="URI1065/URI1065.csproj" Id="f8896850-2f29-45d2-b1d8-d23b1b425293" />
+  <Project Path="URI1066/URI1066.csproj" Id="851d00e5-6042-452a-a431-52bd414e8ecc" />
+  <Project Path="URI1070/URI1070.csproj" Id="7296ec79-55b4-485d-9c5d-82a0111a07fd" />
+</Solution>

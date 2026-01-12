@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95152E83-EABC-4EB3-8C32-737FC259269F}|URI1048\\URI1048.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95152E83-EABC-4EB3-8C32-737FC259269F}|URI1048\\URI1048.csproj|solutionrelative:uri1048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87FC159-3A4D-4AE8-86AE-D36C3D65265E}|URI1046\\URI1046.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B87FC159-3A4D-4AE8-86AE-D36C3D65265E}|URI1046\\URI1046.csproj|solutionrelative:uri1046\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64145096-EE4D-4FDA-B322-F2C21354912A}|URI1044\\URI1044.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64145096-EE4D-4FDA-B322-F2C21354912A}|URI1044\\URI1044.csproj|solutionrelative:uri1044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62DA71B-1DDA-4BA3-B24F-CC8C3E5A7233}|URI1038\\URI1038.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62DA71B-1DDA-4BA3-B24F-CC8C3E5A7233}|URI1038\\URI1038.csproj|solutionrelative:uri1038\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9AE2D46-1F20-47CE-ACBA-3435ECD8E1A9}|URI1035\\URI1035.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1035\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9AE2D46-1F20-47CE-ACBA-3435ECD8E1A9}|URI1035\\URI1035.csproj|solutionrelative:uri1035\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7296EC79-55B4-485D-9C5D-82A0111A07FD}|URI1070\\URI1070.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7296EC79-55B4-485D-9C5D-82A0111A07FD}|URI1070\\URI1070.csproj|solutionrelative:uri1070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851D00E5-6042-452A-A431-52BD414E8ECC}|URI1066\\URI1066.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851D00E5-6042-452A-A431-52BD414E8ECC}|URI1066\\URI1066.csproj|solutionrelative:uri1066\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8896850-2F29-45D2-B1D8-D23B1B425293}|URI1065\\URI1065.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8896850-2F29-45D2-B1D8-D23B1B425293}|URI1065\\URI1065.csproj|solutionrelative:uri1065\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD9EBC-E823-4BA3-A712-22A635E47A5B}|URI1064\\URI1064.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1064\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AD9EBC-E823-4BA3-A712-22A635E47A5B}|URI1064\\URI1064.csproj|solutionrelative:uri1064\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E511CBE3-2144-47A0-8668-A9110D0AFE08}|URI1060\\URI1060.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E511CBE3-2144-47A0-8668-A9110D0AFE08}|URI1060\\URI1060.csproj|solutionrelative:uri1060\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54C5888-F509-4BA8-989E-25489A7734B1}|URI1052\\URI1052.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54C5888-F509-4BA8-989E-25489A7734B1}|URI1052\\URI1052.csproj|solutionrelative:uri1052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40247EE7-9490-45A0-A854-539C6C66EF87}|URI1050\\URI1050.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1050\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40247EE7-9490-45A0-A854-539C6C66EF87}|URI1050\\URI1050.csproj|solutionrelative:uri1050\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623984FB-4021-4B54-BCE6-7E44E27B4C60}|URI1043\\URI1043.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1043\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623984FB-4021-4B54-BCE6-7E44E27B4C60}|URI1043\\URI1043.csproj|solutionrelative:uri1043\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882AF577-6A9F-470B-A2B5-43E17E47D0E7}|URI1042\\URI1042.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882AF577-6A9F-470B-A2B5-43E17E47D0E7}|URI1042\\URI1042.csproj|solutionrelative:uri1042\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B189E0D-45C9-4B7F-BE2E-94E3D2C938F7}|URI1051\\URI1051.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1051\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B189E0D-45C9-4B7F-BE2E-94E3D2C938F7}|URI1051\\URI1051.csproj|solutionrelative:uri1051\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E98917A1-2CB3-4007-85D9-32AE5555409C}|URI1049\\URI1049.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1049\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E98917A1-2CB3-4007-85D9-32AE5555409C}|URI1049\\URI1049.csproj|solutionrelative:uri1049\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B916B519-4AB0-4267-BC46-E05E9F598A12}|URI1047\\URI1047.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1047\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B916B519-4AB0-4267-BC46-E05E9F598A12}|URI1047\\URI1047.csproj|solutionrelative:uri1047\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E3CB70-409F-4616-86F3-29F3839F4615}|URI1045\\URI1045.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E3CB70-409F-4616-86F3-29F3839F4615}|URI1045\\URI1045.csproj|solutionrelative:uri1045\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA81AE1-F373-4CFE-9E48-7E3E3DBC96DC}|URI1041\\URI1041.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA81AE1-F373-4CFE-9E48-7E3E3DBC96DC}|URI1041\\URI1041.csproj|solutionrelative:uri1041\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0CDC57-2E63-401F-A65C-BCE05AC7481E}|URI1040\\URI1040.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1040\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0CDC57-2E63-401F-A65C-BCE05AC7481E}|URI1040\\URI1040.csproj|solutionrelative:uri1040\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DB90700-A90D-4C5E-9409-B23A00A3EAA5}|URI1037\\URI1037.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\uri1037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DB90700-A90D-4C5E-9409-B23A00A3EAA5}|URI1037\\URI1037.csproj|solutionrelative:uri1037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DC9EA4-BA1A-459D-B3BD-75C0361654E7}|ExercicioSwitch\\ExercicioSwitch.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\exercicioswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DC9EA4-BA1A-459D-B3BD-75C0361654E7}|ExercicioSwitch\\ExercicioSwitch.csproj|solutionrelative:exercicioswitch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F0F263-88F6-4CD5-AB20-49427A56E1A2}|ExercicioResolvido3\\ExercicioResolvido3.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\exercicioresolvido3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9F0F263-88F6-4CD5-AB20-49427A56E1A2}|ExercicioResolvido3\\ExercicioResolvido3.csproj|solutionrelative:exercicioresolvido3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5D0752-F20A-41C0-AE25-93FAC25F8D0A}|ExercicioResolvido2\\ExercicioResolvido2.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\exercicioresolvido2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5D0752-F20A-41C0-AE25-93FAC25F8D0A}|ExercicioResolvido2\\ExercicioResolvido2.csproj|solutionrelative:exercicioresolvido2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79A1AE3-DC03-2F40-19DB-AE216A22F24A}|ExercicioResolvido1\\ExercicioResolvido1.csproj|c:\\users\\felipe\\source\\repos\\estruturacondicional\\exercicioresolvido1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79A1AE3-DC03-2F40-19DB-AE216A22F24A}|ExercicioResolvido1\\ExercicioResolvido1.csproj|solutionrelative:exercicioresolvido1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1070\\Program.cs",
+              "RelativeDocumentMoniker": "URI1070\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1070\\Program.cs",
+              "RelativeToolTip": "URI1070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:16:48.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1066\\Program.cs",
+              "RelativeDocumentMoniker": "URI1066\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1066\\Program.cs",
+              "RelativeToolTip": "URI1066\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:16:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1065\\Program.cs",
+              "RelativeDocumentMoniker": "URI1065\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1065\\Program.cs",
+              "RelativeToolTip": "URI1065\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:16:34.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1064\\Program.cs",
+              "RelativeDocumentMoniker": "URI1064\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1064\\Program.cs",
+              "RelativeToolTip": "URI1064\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:16:26.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1060\\Program.cs",
+              "RelativeDocumentMoniker": "URI1060\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1060\\Program.cs",
+              "RelativeToolTip": "URI1060\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:16:15.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1052\\Program.cs",
+              "RelativeDocumentMoniker": "URI1052\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1052\\Program.cs",
+              "RelativeToolTip": "URI1052\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:16:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1050\\Program.cs",
+              "RelativeDocumentMoniker": "URI1050\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1050\\Program.cs",
+              "RelativeToolTip": "URI1050\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:16:03.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1035\\Program.cs",
+              "RelativeDocumentMoniker": "URI1035\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1035\\Program.cs",
+              "RelativeToolTip": "URI1035\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:14:13.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1038\\Program.cs",
+              "RelativeDocumentMoniker": "URI1038\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1038\\Program.cs",
+              "RelativeToolTip": "URI1038\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:14:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1044\\Program.cs",
+              "RelativeDocumentMoniker": "URI1044\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1044\\Program.cs",
+              "RelativeToolTip": "URI1044\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:14:26.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1046\\Program.cs",
+              "RelativeDocumentMoniker": "URI1046\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1046\\Program.cs",
+              "RelativeToolTip": "URI1046\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:14:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1048\\Program.cs",
+              "RelativeDocumentMoniker": "URI1048\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1048\\Program.cs",
+              "RelativeToolTip": "URI1048\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:14:43.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1043\\Program.cs",
+              "RelativeDocumentMoniker": "URI1043\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1043\\Program.cs",
+              "RelativeToolTip": "URI1043\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:15:58.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1042\\Program.cs",
+              "RelativeDocumentMoniker": "URI1042\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1042\\Program.cs",
+              "RelativeToolTip": "URI1042\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:15:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1051\\Program.cs",
+              "RelativeDocumentMoniker": "URI1051\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1051\\Program.cs",
+              "RelativeToolTip": "URI1051\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:15:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1049\\Program.cs",
+              "RelativeDocumentMoniker": "URI1049\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1049\\Program.cs",
+              "RelativeToolTip": "URI1049\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:15:26.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1047\\Program.cs",
+              "RelativeDocumentMoniker": "URI1047\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1047\\Program.cs",
+              "RelativeToolTip": "URI1047\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:15:20.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1045\\Program.cs",
+              "RelativeDocumentMoniker": "URI1045\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1045\\Program.cs",
+              "RelativeToolTip": "URI1045\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:15:13.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1041\\Program.cs",
+              "RelativeDocumentMoniker": "URI1041\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1041\\Program.cs",
+              "RelativeToolTip": "URI1041\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:15:07.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1040\\Program.cs",
+              "RelativeDocumentMoniker": "URI1040\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1040\\Program.cs",
+              "RelativeToolTip": "URI1040\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:14:59.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1037\\Program.cs",
+              "RelativeDocumentMoniker": "URI1037\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\URI1037\\Program.cs",
+              "RelativeToolTip": "URI1037\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T18:14:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioSwitch\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioSwitch\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioSwitch\\Program.cs",
+              "RelativeToolTip": "ExercicioSwitch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:56:13.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioResolvido3\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido3\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioResolvido3\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:34:13.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioResolvido2\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido2\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioResolvido2\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T16:06:53.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioResolvido1\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido1\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\source\\repos\\EstruturaCondicional\\ExercicioResolvido1\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:31:14.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
