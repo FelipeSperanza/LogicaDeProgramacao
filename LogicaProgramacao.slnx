@@ -1,0 +1,54 @@
+<Solution>
+  <Folder Name="/1-EstruturaSequencial/">
+    <Project Path="ExercicioResolvido1/ExercicioResolvido1.csproj" Id="98beae6d-a31b-46b7-bde8-e824980da76b" />
+    <Project Path="ExercicioResolvido2/ExercicioResolvido2.csproj" Id="2e772d80-903d-4eca-a143-18f56a308ed6" />
+    <Project Path="ExercicioResolvido3/ExercicioResolvido3.csproj" Id="0f3f38e7-ca4c-42e1-a0c8-3648e45dd06f" />
+    <Project Path="ExercicioResolvido4/ExercicioResolvido4.csproj" Id="1c8d70b3-356b-40a0-91b2-8b5ca7558ee0" />
+    <Project Path="PrimeiroProjeto/PrimeiroProjeto.csproj" />
+    <Project Path="URI1000/URI1000.csproj" Id="f3ad188a-f781-47b3-86ff-fb52d17e603d" />
+    <Project Path="URI1001/URI1001.csproj" Id="c0c402a4-aeeb-4ba9-8491-b20ca2883d99" />
+    <Project Path="URI1002/URI1002.csproj" Id="324da5df-aab7-4221-a554-4336258d28e8" />
+    <Project Path="URI1003/URI1003.csproj" Id="c13e82af-40a3-469b-a745-2356b7289340" />
+    <Project Path="URI1004/URI1004.csproj" Id="96b1b436-48f3-4d65-a7fd-32e1d3addf33" />
+    <Project Path="URI1005/URI1005.csproj" Id="10481e13-ce4a-4993-905f-787e1120705c" />
+    <Project Path="URI1006/URI1006.csproj" Id="f721ed8a-fcfe-4517-bf17-036e232b74af" />
+    <Project Path="URI1007/URI1007.csproj" Id="a3cce176-3cc5-4468-bf9c-0e1398d0b8f3" />
+    <Project Path="URI1008/URI1008.csproj" Id="4abcd61b-7e5c-4487-ba5e-3ff1b1071ef4" />
+    <Project Path="URI1009/URI1009.csproj" Id="b5270a1e-004a-48a0-bf46-7949e2acae9c" />
+    <Project Path="URI1010/URI1010.csproj" Id="dc50373b-dd85-46b3-96ca-9cd3b0677e6e" />
+    <Project Path="URI1011/URI1011.csproj" Id="1e6fe216-e1cc-41bd-8077-94e208a40a84" />
+    <Project Path="URI1012/URI1012.csproj" Id="8551b851-d3d3-4a3f-b22a-f6f6605fa4c3" />
+    <Project Path="URI1013/URI1013.csproj" Id="e2e2ddfe-544e-4e79-bd8f-ce1eefa572f9" />
+    <Project Path="URI1014/URI1014.csproj" Id="0d541ca7-b79e-4eda-8724-506dfcc5cae5" />
+    <Project Path="URI1015/URI1015.csproj" Id="b04e9b72-1314-40af-bf0a-8e86310e4fe7" />
+    <Project Path="URI1016/URI1016.csproj" Id="ef6d8d83-d317-4d95-9dc5-64e9bbf1e817" />
+    <Project Path="URI1017/URI1017.csproj" Id="e90067d7-ccdd-488d-9a63-1d6a90132ead" />
+    <Project Path="URI1018/URI1018.csproj" Id="650b705a-3c8d-4272-a9a2-84283e1abe93" />
+    <Project Path="URI1019/URI1019.csproj" Id="075f50a8-5ac3-4dc8-b977-13c890f495c2" />
+    <Project Path="URI1020/URI1020.csproj" Id="d02f3459-f205-4b5b-81b6-3fba18113dcb" />
+    <Project Path="URI1021/URI1021.csproj" Id="74ce089d-fc9f-497c-bd10-ca14bee5c460" />
+    <Project Path="URI1061/URI1061.csproj" Id="6adbd81c-5240-4d64-b028-d96140fc5807" />
+  </Folder>
+  <Folder Name="/2-EstruturaCondicional/">
+    <Project Path="ExercicioResolvido5/ExercicioResolvido5.csproj" Id="aeba9d54-bc6f-4dfd-a77b-f97635698caa" />
+    <Project Path="ExercicioResolvido6/ExercicioResolvido6.csproj" Id="e91d9f5f-0fc7-47d8-8d63-26e2843d0b3b" />
+    <Project Path="ExercicioResolvido7/ExercicioResolvido7.csproj" Id="9fb6d1bb-9784-49b1-a2da-88388708d284" />
+    <Project Path="ExercicioResolvido8/ExercicioResolvido8.csproj" Id="fea2a551-893a-4d56-92c4-156631949820" />
+    <Project Path="ExercicioSwitchCase/ExercicioSwitchCase.csproj" Id="ebc2d4f0-0446-497c-b158-96486f79cc79" />
+    <Project Path="URI1035/URI1035.csproj" Id="a168fb8f-5ba5-4fce-9d6d-473176982fdd" />
+    <Project Path="URI1037/URI1037.csproj" Id="4e460fad-7251-49f8-9fac-98758a637708" />
+    <Project Path="URI1038/URI1038.csproj" Id="59eaed29-bfe3-46b3-a3ec-85c03f50b4f6" />
+    <Project Path="URI1040/URI1040.csproj" Id="cff2ad2a-8634-4a1a-8556-6b140983e2be" />
+    <Project Path="URI1041/URI1041.csproj" Id="d6beef37-18c3-4c93-8357-1b88a3d86049" />
+    <Project Path="URI1042/URI1042.csproj" Id="53f3d39f-2c43-4c5e-9a2f-b0826ae52f23" />
+    <Project Path="URI1043/URI1043.csproj" Id="cbd6b90f-a9fa-4ff7-8e08-826c87b53af6" />
+    <Project Path="URI1044/URI1044.csproj" Id="624049b2-0913-4770-9717-911928a8783d" />
+    <Project Path="URI1045/URI1045.csproj" Id="b1862ee6-447f-4966-8293-afb5863171af" />
+    <Project Path="URI1046/URI1046.csproj" Id="23d24b2b-032d-4d1d-9faf-6cadb97ef3a1" />
+    <Project Path="URI1047/URI1047.csproj" Id="53722c18-3722-4115-a5f2-a3b787f41ac9" />
+    <Project Path="URI1048/URI1048.csproj" Id="5fdebad3-6a7d-483a-9f32-868a2056a54f" />
+    <Project Path="URI1049/URI1049.csproj" Id="76238494-3fa7-40bb-826b-9300767d5871" />
+    <Project Path="URI1050/URI1050.csproj" Id="b1cf82fc-45f1-4986-9734-4591f4594e79" />
+    <Project Path="URI1052/URI1052.csproj" Id="cb82d84d-dfc6-4b81-95d5-2818023fd722" />
+  </Folder>
+</Solution>

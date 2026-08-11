@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\bin\Debug\net10.0\ExercicioSwitchCase.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\bin\Debug\net10.0\ExercicioSwitchCase.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\bin\Debug\net10.0\ExercicioSwitchCase.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\bin\Debug\net10.0\ExercicioSwitchCase.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\bin\Debug\net10.0\ExercicioSwitchCase.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\refint\ExercicioSwitchCase.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ExercicioSwitchCase.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\ExercicioSwitchCase\obj\Debug\net10.0\ref\ExercicioSwitchCase.dll
