@@ -50,5 +50,10 @@
     <Project Path="URI1049/URI1049.csproj" Id="76238494-3fa7-40bb-826b-9300767d5871" />
     <Project Path="URI1050/URI1050.csproj" Id="b1cf82fc-45f1-4986-9734-4591f4594e79" />
     <Project Path="URI1052/URI1052.csproj" Id="cb82d84d-dfc6-4b81-95d5-2818023fd722" />
+    <Project Path="URI1060/URI1060.csproj" Id="4cfc9546-5295-484c-87b6-f69d3c31eaf9" />
+    <Project Path="URI1064/URI1064.csproj" Id="776bc61d-7a9d-4087-982f-44eaf841864d" />
+    <Project Path="URI1065/URI1065.csproj" Id="d00c3b9f-7cf3-4224-b766-6c905466a445" />
+    <Project Path="URI1066/URI1066.csproj" Id="31bf7f1f-15a6-4633-a538-1adb0135108d" />
+    <Project Path="URI1070/URI1070.csproj" Id="1a73ad22-127e-43d7-aec2-5d51de79230a" />
   </Folder>
 </Solution>
