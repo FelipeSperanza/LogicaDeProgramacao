@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{84AB59D3-01C1-4B93-97B9-E19EB8BF9261}|URI1115\\URI1115.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\uri1115\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AB59D3-01C1-4B93-97B9-E19EB8BF9261}|URI1115\\URI1115.csproj|solutionrelative:uri1115\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD9DD50-931A-4169-B83F-EFD488CA25B3}|URI1114\\URI1114.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\uri1114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD9DD50-931A-4169-B83F-EFD488CA25B3}|URI1114\\URI1114.csproj|solutionrelative:uri1114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9CE523-4400-4B63-A889-EE18382452DC}|ExercicioResolvido10\\ExercicioResolvido10.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicioresolvido10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9CE523-4400-4B63-A889-EE18382452DC}|ExercicioResolvido10\\ExercicioResolvido10.csproj|solutionrelative:exercicioresolvido10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCE91F5-2327-41B5-A078-418B8884F428}|URI1113\\URI1113.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\uri1113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCE91F5-2327-41B5-A078-418B8884F428}|URI1113\\URI1113.csproj|solutionrelative:uri1113\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C9B0F80-DCF1-42B0-A897-4FF8B9978FE3}|ExercicioResolvido9\\ExercicioResolvido9.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\exercicioresolvido9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C9B0F80-DCF1-42B0-A897-4FF8B9978FE3}|ExercicioResolvido9\\ExercicioResolvido9.csproj|solutionrelative:exercicioresolvido9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A73AD22-127E-43D7-AEC2-5D51DE79230A}|URI1070\\URI1070.csproj|c:\\users\\felipe\\desktop\\logicadeprogramacao\\uri1070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A73AD22-127E-43D7-AEC2-5D51DE79230A}|URI1070\\URI1070.csproj|solutionrelative:uri1070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +56,83 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1115\\Program.cs",
+              "RelativeDocumentMoniker": "URI1115\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1115\\Program.cs",
+              "RelativeToolTip": "URI1115\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T03:06:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1114\\Program.cs",
+              "RelativeDocumentMoniker": "URI1114\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1114\\Program.cs",
+              "RelativeToolTip": "URI1114\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T03:02:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\ExercicioResolvido10\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido10\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\ExercicioResolvido10\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido10\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:33:27.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1113\\Program.cs",
+              "RelativeDocumentMoniker": "URI1113\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1113\\Program.cs",
+              "RelativeToolTip": "URI1113\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T02:22:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\ExercicioResolvido9\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido9\\Program.cs",
+              "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\ExercicioResolvido9\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T01:46:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1070\\Program.cs",
               "RelativeDocumentMoniker": "URI1070\\Program.cs",
               "ToolTip": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1070\\Program.cs",
               "RelativeToolTip": "URI1070\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-12T03:16:10.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1066\\Program.cs",
               "RelativeDocumentMoniker": "URI1066\\Program.cs",
@@ -55,12 +140,11 @@
               "RelativeToolTip": "URI1066\\Program.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAAwJUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T02:59:23.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-12T02:59:23.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1065\\Program.cs",
               "RelativeDocumentMoniker": "URI1065\\Program.cs",
@@ -68,12 +152,11 @@
               "RelativeToolTip": "URI1065\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T02:56:03.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-12T02:56:03.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1064\\Program.cs",
               "RelativeDocumentMoniker": "URI1064\\Program.cs",
@@ -81,12 +164,11 @@
               "RelativeToolTip": "URI1064\\Program.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwDMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T02:47:20.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-12T02:47:20.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Felipe\\Desktop\\LogicaDeProgramacao\\URI1060\\Program.cs",
               "RelativeDocumentMoniker": "URI1060\\Program.cs",
@@ -94,8 +176,7 @@
               "RelativeToolTip": "URI1060\\Program.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-11T23:59:22.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-11T23:59:22.504Z"
             }
           ]
         }

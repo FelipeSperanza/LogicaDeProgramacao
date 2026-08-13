@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\bin\Debug\net10.0\URI1113.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\bin\Debug\net10.0\URI1113.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\bin\Debug\net10.0\URI1113.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\bin\Debug\net10.0\URI1113.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\bin\Debug\net10.0\URI1113.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\refint\URI1113.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\URI1113.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1113\obj\Debug\net10.0\ref\URI1113.dll

@@ -56,4 +56,11 @@
     <Project Path="URI1066/URI1066.csproj" Id="31bf7f1f-15a6-4633-a538-1adb0135108d" />
     <Project Path="URI1070/URI1070.csproj" Id="1a73ad22-127e-43d7-aec2-5d51de79230a" />
   </Folder>
+  <Folder Name="/3-EstruturaRepetitivaEnquanto/">
+    <Project Path="ExercicioResolvido10/ExercicioResolvido10.csproj" Id="2a9ce523-4400-4b63-a889-ee18382452dc" />
+    <Project Path="ExercicioResolvido9/ExercicioResolvido9.csproj" Id="3c9b0f80-dcf1-42b0-a897-4ff8b9978fe3" />
+    <Project Path="URI1113/URI1113.csproj" Id="4cce91f5-2327-41b5-a078-418b8884f428" />
+    <Project Path="URI1114/URI1114.csproj" Id="9bd9dd50-931a-4169-b83f-efd488ca25b3" />
+    <Project Path="URI1115/URI1115.csproj" Id="84ab59d3-01c1-4b93-97b9-e19eb8bf9261" />
+  </Folder>
 </Solution>
