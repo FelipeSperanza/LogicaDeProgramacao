@@ -59,13 +59,16 @@
   <Folder Name="/3-EstruturaRepetitivaEnquanto/">
     <Project Path="ExercicioResolvido10/ExercicioResolvido10.csproj" Id="2a9ce523-4400-4b63-a889-ee18382452dc" />
     <Project Path="ExercicioResolvido9/ExercicioResolvido9.csproj" Id="3c9b0f80-dcf1-42b0-a897-4ff8b9978fe3" />
+    <Project Path="URI1071/URI1071.csproj" Id="32a9fffe-ab70-41ca-b9e6-c9cd42db5e35" />
+    <Project Path="URI1078/URI1078.csproj" Id="3824f599-e034-494e-9c0a-218ca86248e9" />
     <Project Path="URI1113/URI1113.csproj" Id="4cce91f5-2327-41b5-a078-418b8884f428" />
     <Project Path="URI1114/URI1114.csproj" Id="9bd9dd50-931a-4169-b83f-efd488ca25b3" />
     <Project Path="URI1115/URI1115.csproj" Id="84ab59d3-01c1-4b93-97b9-e19eb8bf9261" />
     <Project Path="URI1117/URI1117.csproj" Id="e39d705f-dbd7-46e0-b90e-d8283502c7e5" />
+    <Project Path="URI1118/URI1118.csproj" Id="be93d5f8-9893-459f-9512-8743418ebbb9" />
+    <Project Path="URI1131/URI1131.csproj" Id="1797c01e-a5be-44d6-8694-4cb0248a3b4e" />
     <Project Path="URI1134/URI1134.csproj" Id="f052f63c-da5d-4c22-8e8e-f982f311a099" />
     <Project Path="URI1154/URI1154.csproj" Id="09b07155-edf0-4eca-bf4a-bbbd4dfbf483" />
+    <Project Path="URI1159/URI1159.csproj" Id="ddbea988-b9c7-46af-a842-3d6ce0225cd0" />
   </Folder>
-  <Project Path="URI1118/URI1118.csproj" Id="be93d5f8-9893-459f-9512-8743418ebbb9" />
-  <Project Path="URI1159/URI1159.csproj" Id="ddbea988-b9c7-46af-a842-3d6ce0225cd0" />
 </Solution>

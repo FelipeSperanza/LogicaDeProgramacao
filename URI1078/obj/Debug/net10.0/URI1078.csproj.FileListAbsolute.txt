@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\bin\Debug\net10.0\URI1078.exe
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\bin\Debug\net10.0\URI1078.deps.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\bin\Debug\net10.0\URI1078.runtimeconfig.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\bin\Debug\net10.0\URI1078.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\bin\Debug\net10.0\URI1078.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.sourcelink.json
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\refint\URI1078.dll
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.pdb
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\URI1078.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\LogicaDeProgramacao\URI1078\obj\Debug\net10.0\ref\URI1078.dll
